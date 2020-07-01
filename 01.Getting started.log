@@ -1,0 +1,133 @@
+divine inspiration 종교적 영감
+
+Tell us what the future holds, so we know that you are gods.
+
+ban on ~에 대한 금지
+
+1.1 What can be forecast?
+  - The predictability of an event or a quantity depends on 
+    several factors including:
+    1. how well we understand the factors that contribute to it;
+    2. how much data is available;
+    3. whether the forecasts can affect the thing we are trying to forecast
+
+  ex) the exchange rates become their own forecasts 
+      forecasters need to be aware of their own limitations, and 
+          not claim more than is possible.
+
+in advance (~보다) 앞선, 사전에
+beforehand 사전에; ...전에 미리
+contribute (...의)한 원인이 되다, 기여하다
+self-fulfilling (예언이)자기 충족적인
+in a sense 어떤 의미에서는, 어느 정도(까지는)
+consequently 그 결과, 따라서
+
+  - Often in forecasting, 
+    a key step is knowing
+        when something can be forecast accurately,
+        and
+        when forecasts will be no better than tossing a coin.
+
+  - Good forecasts capture
+    the genuine patterns and relationships
+        which exist in the historical data
+
+  - will learn
+    how to tell the difference
+    between
+      a random fluctuation in the past data that should be ignored,
+    and 
+      a genuine pattern that should be modelled and extrapolated.
+
+capture 정확히 포착하다[담아내다]
+fluctuation 변동
+extrapolate (...을 기반으로)추론[추정]하다
+
+  - Every environment is changing, and 
+    a good forecasting model 
+      captures
+          the way in which things are changing.
+
+  - What is normally assumed is 
+    that the way in which the environment is changing
+    will continue into the future.
+
+    a highly volatile environment will continue to be highly volatile
+
+  - A forecasting model
+    is intended 
+    to capture the way things move,
+    not just where things are.
+
+  "If we could first know 
+      where we are 
+      and
+      whither we are tending,
+  we could better judge 
+      what to do
+      and
+      how to do it"
+
+1.2 Forecasting, planning and goals
+  - Forecasting
+    - is about predicting the future as accurately as possible
+
+    - Short-term forecasts
+      the scheduling of personnel, production and transportation
+      forecasts of demand
+    - Medium-term forecasts
+      determine future resource requirements in order to 
+        purchase raw materail, 
+                  hire personnel, 
+        or buy machinery and equipment
+    - Long-term forecasts
+      strategic planning(market opportunities, environmental factors and internal resources)
+  - Goals
+    - are what you would like to have happen.
+    - Goals should be linked to forecasts and plans
+    - Too often,
+      goals are set 
+        without any plan 
+          for how to achieve them
+        and no forecasts
+          for whether they are realistic.
+  - Planning
+    - is a response to forecasts and goals.
+    - involves determining the appropriate actions
+      that are required to make your forecasts match your goals.
+
+1.3 Determining what to forecast
+
+1.4 Forecasting data and methods
+  - Qualitative forecasting
+    - If there are no data available, or
+    - if the data available are not relevant to the forecasts
+  - Quantitative forecasting
+    - numerical information about the past is available;
+    - it is reasonable to assume 
+      that some aspects of the past patterns will continue into the future
+    - time series data(collected at regular intervals over time)
+    - cross-sectional data(collected at a single point in time)
+  - Time series forecasting
+    - Anything that is observed sequentially over time is a time series.
+    - the aim is to estimate 
+      how the sequence of observations will continue into the future
+    - decomposition models, exponential smoothing models and ARIMA models
+  - Predictor variables and time series forecasting
+    - An explanatory model is useful 
+      because it incorporates information about other variables,
+        rather than only historical values of the variable to be forecast
+    - there are several reasons a forecaster might select a time series model 
+      rather than an explanatory or mixed model : 
+      1. the system may not be understood
+         it may be extremely difficult to measure the relationships
+          that are assumed to govern its behaviour.
+      2. it is necessary to know or forecast the future values of the various predictors
+         in order to be able to forecast the variable of interest, and this may be too difficult.
+      3. the main concern may be only to predict
+         what will happen,
+         not to know why it happens.
+      4. may give more accurate
+
+1.5 Some case studies
+https://otexts.com/fpp2/case-studies.html      
