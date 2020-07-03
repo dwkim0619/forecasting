@@ -1,0 +1,18 @@
+- The first thing to do in any data analysis task is to plot the data. 
+    - including patterns,
+    - unusual observations, 
+    - changes over time, and 
+    - relationships between variables
+
+2.1 ts objects
+    - time series
+        - a list of numbers,
+          along with some information about what times those numbers were recorded.
+
+2.2 Time plots
+    - "02.Time series graphics.R" 참조
+
+2.3 Time series patterns
+    - trend, seasonal
+
+    https://otexts.com/fpp2/tspatterns.html

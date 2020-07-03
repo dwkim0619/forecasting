@@ -130,4 +130,34 @@ extrapolate (...을 기반으로)추론[추정]하다
       4. may give more accurate
 
 1.5 Some case studies
-https://otexts.com/fpp2/case-studies.html      
+
+1.6 The basic steps in a forecasting task
+  - Step 1: Problem definition.
+    - the most difficult part
+  - Step 2: Gathering information.
+    - at least two kinds of information required:
+      a. statistical data, and
+      b. the accumulated expertise of the people who collect the data and use the forecasts
+    - the judgmental forecasting methods : will be difficult to obtain enough historical data
+  - Step 3: Preliminary(exploratory) analysis.
+    - Always start by graphing the data
+    - consistent patterns, significant trend, seasonality ?
+  - Step 4: Choosing and fitting models.
+    - It is common to compare two or three potential models.
+    - regression models
+      exponential smoothing methods
+      Box-Jenkins ARIMA models
+      Dynamic regression models
+      Hierarchical forecasting
+      several advanced methods including neural networks and vector autoregression
+  - Step 5: Using and evaluating a forecasting model.
+    - how to handle missing values and outliers, or 
+    - how to deal with short time series.
+
+  1.7 The statistical forecasting perspective
+    - the further ahead we forecast, the more uncertain we are.
+    - prediction interval
+    - point forecasts
+    - forecast distribution(probability distribution)
+    - "forecast" : the average value of the forecast distribution
+      => a “hat” over y
